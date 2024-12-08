@@ -1,0 +1,15 @@
+
+header{
+  padding: 0;
+  margin: 0;
+  background: #6d67e4;
+  color: #fff;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  width: 100%;;
+}
+
+.link-style{
+  color: #fff;
+}
